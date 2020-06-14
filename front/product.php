@@ -506,11 +506,11 @@
                         <table id="myTable">
                             <thead>
                                 <tr>
-                                    <th style="text-align:left;padding-left:25px;">Image</th>
+                                    <th style="text-align:left;padding-left:25px;">pictures</th>
                                     <th style="text-align:left;">Product Name</th>
                                     <th style="text-align:left;">Prix</th>
                                     <th style="text-align:left;">Category</th>
-                                    <th class="p-name" style="text-align:left;">Description</th>                                  
+                                    <th class="p-name" style="text-align:left;">Descriptions</th>                                  
                                     <th style="text-align:left;">Actions</th>
                                     
                                 </tr>

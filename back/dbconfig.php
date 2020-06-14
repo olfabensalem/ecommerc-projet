@@ -7,9 +7,9 @@
 	require "../back/authentication.php" ;
 	
 	//Les paramètres de connexion
-	$DB_host = "localhost";
-	$DB_user = "root";
-	$DB_pass = "";
+	$DB_host = "mysql";
+	$DB_user = "olfauser";
+	$DB_pass = "olfapfe";
 	$DB_name = "ecommerce";
 
 	try {
