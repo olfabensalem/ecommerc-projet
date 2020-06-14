@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="zxx">
 
 <head>
@@ -508,7 +508,7 @@
                                 <tr>
                                     <th style="text-align:left;padding-left:25px;">Image</th>
                                     <th style="text-align:left;">Product Name</th>
-                                    <th style="text-align:left;">Price</th>
+                                    <th style="text-align:left;">Prix</th>
                                     <th style="text-align:left;">Category</th>
                                     <th class="p-name" style="text-align:left;">Description</th>                                  
                                     <th style="text-align:left;">Actions</th>
