@@ -109,7 +109,7 @@
                         <h2>Login</h2>
                         <form action="login.php" method="post">
                             <div class="group-input">
-                                <label for="username">Username or email adresss *</label>
+                                <label for="username">Username or email adress *</label>
                                 <input type="text" id="username" name="username" autocomplete="off">
                                 <?php
                                     if(isset($erUsername)){
@@ -118,7 +118,7 @@
                                 ?>
                             </div>
                             <div class="group-input">
-                                <label for="password">Password or mot de passess *</label>
+                                <label for="password">Password *</label>
                                 <input type="password" id="password" name="password" autocomplete="off">
                                 <?php
                                     if(isset($erPassword)){
