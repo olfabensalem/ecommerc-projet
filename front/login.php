@@ -118,7 +118,7 @@
                                 ?>
                             </div>
                             <div class="group-input">
-                                <label for="password">Passwords *</label>
+                                <label for="password">Passwords or mot de passe *</label>
                                 <input type="password" id="password" name="password" autocomplete="off">
                                 <?php
                                     if(isset($erPassword)){
